@@ -65,17 +65,17 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
+❶ || Creator = PATHUM / MANJU MD_👨🏻‍💻
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
+❷ || WhattsApp Channel = UNKNOWN URL 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94720797915
+❸ || Owner = https://wa.me/+94781209709
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
+❺ || INSTAGRAM = UNKNOWN URL
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || FaceBook = https://www.facebook.com/profile.php?id=100089180711131
+❻ || FaceBook = UNKNOWN URL
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ MANJU mD ᴏꜰᴄ
        `
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
